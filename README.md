@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-StudentHub is a comprehensive full-stack web application designed to enhance the academic experience for students. It provides a centralized platform for course management, collaboration, file sharing, and more.
+Biddyaloy. is a comprehensive full-stack web application designed to enhance the academic experience for students. It provides a centralized platform for course management, collaboration, file sharing, and more.
 
 ## Tech Stack
 
@@ -324,4 +324,4 @@ export const marketplaceListings = pgTable("marketplace_listings", {
 - Integrate with popular learning management systems (LMS)
 - Develop an API for third-party integrations
 
-This enhanced project documentation provides a comprehensive overview of the StudentHub application, including detailed feature descriptions, animations, user flows, and technical specifications. It serves as a solid foundation for building and expanding the project.
+This enhanced project documentation provides a comprehensive overview of the Biddyaloy. application, including detailed feature descriptions, animations, user flows, and technical specifications. It serves as a solid foundation for building and expanding the project.
