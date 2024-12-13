@@ -6,29 +6,53 @@ Biddyaloy. is a comprehensive full-stack web application designed to enhance the
 
 ## Tech Stack
 
-### Frontend
+### Web Application
 
-- Next.js 14 (Latest React-based framework)
-- shadcn UI (For pre-built UI components)
-- Tailwind CSS (For styling)
-- React Query (For asynchronous state management)
-- TypeScript (For static typing)
-- Framer Motion (For animations)
+- **Frontend**: NextJS
+- **Backend**: NextJS API Routes
+- **ORM**: Drizzle
+- **Schema Validation**: Zod
 
-### Backend
+### Database
 
-- Next.js API Routes (For handling server-side logic and API requests)
-- Drizzle ORM (For database interaction)
-- PostgreSQL (Relational database)
-- Zod (For schema validation and type safety)
-- NextAuth.js (For user authentication with social login)
-- NodeMailer (For email notifications)
+- **Core Database**: PostgreSQL
+- **Vector Database**: Pinecone
+- **DB Hosting**: Neon, Supabase
+
+### Mobile Application
+
+- **Framework**: React Native
+- **Styling**: NativeWind
+
+### DevOps
+
+- **CI/CD**: GitHub Actions
+- **Containerization**: Docker
+
+### LLM/Gen-AI
+
+- OpenAI
+- Anthropic
+- Claude
+- Google Vertex
+
+### ML Training
+
+- Python
+- PyTorch
+
+### Model Deployment
+
+- FastAPI
+- TFLite
+
+### Testing
+
+- Sentry
 
 ### Hosting
 
-- Vercel (For hosting the frontend and backend)
-- Neon (PostgreSQL database hosting with real-time features)
-- Firebase Storage (File storage bucket)
+- Vercel
 
 ## Enhanced Feature Set
 
