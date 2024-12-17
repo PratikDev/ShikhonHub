@@ -34,7 +34,38 @@ Detailed Solution Description
 
 Describe how your solution addresses the problem in detail. Mention any AI or machine learning approaches if applicable.
 
-#### Existing Solutions
+#### AI Enhanced Features
+
+- **OCR**: Users can upload images of text documents, and the application will automatically extract the text using OCR
+- **Doc Chat**: User can kind of chat with the documents. The application will automatically extract the text using OCR which can be later used to search for any queries within the document.
+- **Study Plan**: The application will be able to generate a study plan for the students based on their course syllabus, exam dates, and other factors. _(Only for teachers and students)_
+- **Note Creation**: Users can create notes and flashcards directly from the application with the help of AI. The notes can be created with context of any course, exam syllabus, completed topics, etc. _(Only for students)_
+- **Performance Analytics**: The application will provide detailed analytics on the student's performance based on their study plan, exam scores, and other factors. It can provide performance insights for not only the students but also the teachers as well based on the student's performance. _(Only for teachers)_
+- **Individualized Assignments**: Teachers can create individualized assignments for each student based on their performance, study plan, and other factors. The application will automatically generate the assignments based on the student's history and performance. _(Only for teachers)_
+- **Quiz Generation**: The application will be able to generate quizzes for the students based on any topic, course, exam syllabus they want to study. The quizzes can be generated with the help of AI and can be used to test the student's knowledge on the topic. _(Only for teacher and students)_
+- **AI LearnMate**: The application will be able to provide an AI enhanced learn mate for the students. The AI LearnMate can help the students in their studies, chat with them like another student willing to study with them, help them in solving problems, etc. _(Only for students)_
+- **Lesson Plan Generation**: The application will be able to AI generate lesson plans for the teachers based on the course syllabus, exam dates, and other factors. _(Only for teachers)_
+- **Automated Grading**: The application will be able to automatically grade the assignments, quizzes, and exams for the teachers. The teachers can then focus on providing feedback to the students rather than spending hours grading the assignments/exams. _(Only for teachers)_
+- **Voice-to-Text Notes**: The application will be able to convert voice notes to text notes for the students. The students can then use these notes for their studies, exams, etc. _(Only for teacher and students)_
+- **Note Simplification**: The application will be able to simplify the notes for the students. The student will upload the notes, and the application will simplify the notes for them, making it easier for them to understand it quickly. _(Only for students)_
+- **Resume Builder**: The application will be able to generate a resume for the students based on their academic performance, extracurricular activities, projects, etc. The students can then use this resume to apply for jobs, internships, etc. _(Only for students)_
+- **Paper Summorization**: The application will be able to summarize research papers, articles, etc., for the students so that they don't have to read the entire paper. The students can then use these summaries for their studies, exams, etc. _(Only for teacher and students)_
+- **Mock Interview & Feedback**: The application will be able to provide mock interviews for the students based on the job they are applying for or their chosen topics. The application will then provide feedback to the students on their performance, areas of improvement, etc. _(Only for students)_
+- **Timely Feedback**: The application will be able to provide timely feedback to the students on their performance, study plan, assignments, quizzes, exams, etc. The students can then use this feedback to improve their performance, study plan, etc. _(Only for students)_
+- **Automated Schedule**: The application will be able to generate an automated schedule for the students based on their study plan, exam dates, assignments, quizzes, etc. The students can then follow this schedule to manage their studies effectively. It also can be used by the Institution to manage the classes, exams, etc. _(Only for Institution and students)_
+- **Text-to-Voice**: The application will be able to convert text notes to voice notes for the students who are visually impaired or just prefer listening to the notes rather than reading them. _(Only for students)_
+
+#### Core Features
+
+- **StudyPal**: The application will be able to match students with other students based on any criteria like course, exam syllabus, study plan, etc. The students can then study together, share notes, and help each other in their studies.
+- **Chat Room**: The application will provide a chat room for the students to discuss any topic, course, exam syllabus, etc. The students can then use this chat room to ask questions, share notes, etc.
+- **QR/Magic-Link based Authentication**: The application will provide QR/Magic Link based authentication to login to the application. The Institution admin can generate QR codes or magic-links for their staff members, teachers and students to join the organization in the application. _(Only for institution)_
+- **Result Analysis**: The application will provide detailed analytics on the student's performance based on their study plan, exam scores, and other factors. It can provide performance insights for not only the students but also the teachers as well based on the student's performance. _(Only for institution)_
+- **Result Publication**: The application will be able to publish the results of the students, exams, assignments, quizzes, etc., for the students, teachers, and parents to view. The students can then use this feedback to improve their performance, study plan, etc. _(Only for staff members)_
+- **Notice Board**: The application will provide a notice board for the Institution to post any notices, announcements, events, etc., for the students, teachers, and parents to view. The students can then use this information to stay updated on the latest happenings in the Institution. _(Only for staff members)_
+- **Attendance Management**: The application will be able to manage the attendance of the students, teachers, staff members, etc., for the Institution. The teachers can then use this information to track the attendance of the students, staff members, etc. _(Only for staff members)_
+
+### Existing Solutions
 
 - https://eshkul.com/
 
@@ -155,7 +186,7 @@ Demo Description
 - **Backend**: NextJS API Routes
 - **ORM**: Drizzle
 - **Schema Validation**: Zod
-- **Chat**: Rocket.chat
+- **Real-Time Communication**: Socket.io
 
 ### Database
 
@@ -204,28 +235,163 @@ Demo Description
 
 ### Justification
 
-Justification for Chosen Tech Stack
+- **NextJS**:
 
-Briefly explain why the selected technologies suit this solution.
+  1.  Easy SSR and API Routes for seamless frontend-backend integration.
+  2.  Serves as a single codebase for both frontend and backend (web).
+  3.  Great for SEO and performance.
+
+- **Drizzle**:
+
+  1.  ORM for PostgreSQL, ensuring data consistency and integrity.
+  2.  Easy schema management and migrations.
+  3.  Type-safe queries with TypeScript.
+  4.  Lightweight and efficient.
+
+- **Zod**:
+
+  1.  Schema validation for API requests.
+  2.  Type-safe data handling.
+  3.  Easy to use and integrate.
+
+- **Socket.io**:
+
+  1.  Real-time communication for chat and notifications.
+  2.  Scalable and efficient.
+  3.  Easy to integrate with JS ecosystem.
+
+- **PostgreSQL**:
+
+  1.  Robust and reliable database.
+  2.  Supports complex queries and transactions.
+  3.  Easy to scale and manage.
+
+- **Pinecone**:
+
+  1.  Vector database for fast similarity search.
+  2.  Efficient for ML model embeddings.
+  3.  Easy to integrate with Python and APIs.
+
+- **Expo React Native**:
+
+  1.  Fast development and prototyping.
+  2.  Cross-platform support.
+  3.  Easy to develop and maintain.
+
+- **NativeWind**:
+
+  1.  Tailwind CSS for React Native.
+  2.  Easy styling and theming.
+  3.  Lightweight and efficient.
+
+- **Docker**:
+
+  1.  Containerization for easy deployment.
+  2.  Consistent environment across platforms.
+  3.  Scalable and efficient.
+
+- **GitHub Actions**:
+
+  1.  CI/CD for automated testing and deployment.
+  2.  Easy to configure and use.
+  3.  Integrates well with GitHub repositories.
+
+- **OpenAI**:
+
+  1.  Powerful AI models for text generation.
+  2.  Easy to use and integrate.
+  3.  Supports various use cases.
+
+- **Claude**:
+
+  1.  AI model for image recognition.
+  2.  Efficient and accurate.
+  3.  Easy to deploy and use.
+
+- **Google Vertex**:
+
+  1.  ML platform for training and deployment.
+  2.  Scalable and efficient.
+  3.  Supports various ML models.
+
+- **Python**:
+
+  1.  Popular language for ML and AI.
+  2.  Rich ecosystem of libraries.
+  3.  Easy to learn and use.
+
+- **PyTorch**:
+
+  1.  Deep learning library for Python.
+  2.  Efficient and scalable.
+  3.  Supports various neural network architectures.
+
+- **FastAPI**:
+
+  1.  Fast and efficient API framework.
+  2.  Easy to use and deploy.
+  3.  Supports async requests.
+
+- **TFLite**:
+
+  1.  TensorFlow Lite for model deployment.
+  2.  Lightweight and efficient.
+  3.  Supports various ML models.
+
+- **Sentry**:
+
+  1.  Error tracking and monitoring.
+  2.  Real-time alerts and notifications.
+  3.  Easy to integrate with various platforms.
+
+- **Git**:
+
+  1.  Version control for codebase.
+  2.  Easy collaboration and code management.
+  3.  Supports branching and merging.
+
+- **Neon**:
+
+  1.  PostgreSQL hosting.
+  2.  Easy to scale and manage.
+  3.  Supports data backups and recovery.
+
+- **Supabase**:
+
+  1.  PostgreSQL hosting.
+  2.  Real-time database.
+  3.  Easy to integrate with frontend and backend.
+
+- **Vercel**:
+
+  1.  Hosting for frontend and backend.
+  2.  Fast and efficient.
+  3.  Easy to deploy NextJS apps.
+
+- **Google Cloud Platform**:
+
+  1.  ML model hosting.
+  2.  Scalable and efficient.
+  3.  Supports various ML models.
 
 ## TEAM INFORMATION
 
 #### List of Team Members
 
-Full Name: Touhidul Alam Seyam
-Position/Role in Team: Mobile App Developer, AI/ML Engineer
-Email Address: seyamalam41@gmail.com
-LinkedIn Profile Link: https://www.linkedin.com/in/touhidulalamseyam/
+Full Name: Touhidul Alam Seyam  
+Position/Role in Team: Mobile App Developer, AI/ML Engineer  
+Email Address: seyamalam41@gmail.com  
+LinkedIn Profile Link: https://www.linkedin.com/in/touhidulalamseyam/  
 Link to Resume (PDF):
 
-Full Name: Pratik Dev
-Position/Role in Team: Designer, Full Stack Web Developer
-Email Address: pratikdevofficial1@gmail.com
-LinkedIn Profile Link: https://www.linkedin.com/in/pratik-and-dev/
+Full Name: Pratik Dev  
+Position/Role in Team: Designer, Full Stack Web Developer  
+Email Address: pratikdevofficial1@gmail.com  
+LinkedIn Profile Link: https://www.linkedin.com/in/pratik-and-dev/  
 Link to Resume (PDF):
 
 #### Team Lead
 
-Full Name: Pratik Dev
-Email Address: pratikdevofficial1@gmail.com
+Full Name: Pratik Dev  
+Email Address: pratikdevofficial1@gmail.com  
 Contact Number (WhatsApp): +8801537220785

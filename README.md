@@ -12,13 +12,12 @@ Biddyaloy. is a comprehensive full-stack web application designed to enhance the
 - **Backend**: NextJS API Routes
 - **ORM**: Drizzle
 - **Schema Validation**: Zod
-- **Chat**: Rocket.chat
+- **Real-Time Communication**: Socket.io
 
 ### Database
 
 - **Core Database**: PostgreSQL
 - **Vector Database**: Pinecone
-- **DB Hosting**: Neon, Supabase
 
 ### Mobile Application
 
@@ -33,7 +32,6 @@ Biddyaloy. is a comprehensive full-stack web application designed to enhance the
 ### LLM/Gen-AI
 
 - OpenAI
-- Anthropic
 - Claude
 - Google Vertex
 
@@ -51,9 +49,15 @@ Biddyaloy. is a comprehensive full-stack web application designed to enhance the
 
 - Sentry
 
+### Version Control
+
+- Git
+
 ### Hosting
 
-- Vercel
+- **DB Hosting**: Neon, Supabase
+- **Frontend + Backend Hosting**: Vercel
+- **ML Model Hosting**: Google Cloud Platform
 
 ## Feature Set
 
