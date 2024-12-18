@@ -11,8 +11,7 @@ ShikhonHub
 ## PROBLEM STATEMENT
 
 ### Summary
-
-A shortage of AI-powered Student Management System providers limits the efficiency of educational institutions, teachers, and students, leading to suboptimal learning outcomes.
+In Bangladesh, universities face significant challenges in managing and optimizing their operations due to the lack of comprehensive, AI-powered student management systems. This deficiency particularly affects the 3.5 million university students and thousands of professors across the country, leading to reduced educational effectiveness, inefficient resource allocation, and difficulties in tracking student progress. The absence of modern technological solutions tailored to Bangladesh's higher education context has created a significant gap between the country's educational aspirations and its actual capabilities.
 
 ### Description
 
@@ -24,9 +23,7 @@ Explain the problem's context, its relevance, and the specific pain points it ad
 
 ### Overview
 
-Solution Overview (2-3 sentences)
-
-Example: "We propose an AI-powered virtual assistant to assist patients with preliminary consultations, reducing the load on healthcare providers."
+Biddyaloy is an AI-powered comprehensive educational management platform specifically designed for Bangladesh's university ecosystem. It combines cutting-edge artificial intelligence with features tailored for higher education to create an efficient and effective learning environment for students, professors, and administrative staff.
 
 ### Description
 
@@ -93,6 +90,7 @@ Describe how your solution addresses the problem in detail. Mention any AI or ma
 
 ## BUSINESS IMPACT
 
+
 ### Summary
 
 Biddyaloy is positioned to transform Bangladesh’s education landscape by leveraging AI-driven tools and features. This platform caters to the pressing needs of a rapidly growing educational ecosystem, addressing challenges like accessibility, quality of education and teacher productivity. By offering a comprehensive suite of features, Biddyaloy aims to capture a significant share of the $700M Bangladeshi EdTech market by 2025. The platform’s potential for social impact is equally significant, with the potential to empower millions of students and teachers, aligning with Sustainable Development Goal 4 (Quality Education).
@@ -103,8 +101,6 @@ Biddyaloy is positioned to transform Bangladesh’s education landscape by lever
 - **Social Impact:** Empowering millions of students and teachers through technology, aiding the achievement of Sustainable Development Goal 4 (Quality Education) [2].
 
 ### Description
-
-Demo Description
 
 #### Education Landscape and Market Potential
 
@@ -389,17 +385,17 @@ Demo Description
 
 #### List of Team Members
 
-Full Name: Touhidul Alam Seyam  
-Position/Role in Team: Mobile App Developer, AI/ML Engineer  
-Email Address: seyamalam41@gmail.com  
-LinkedIn Profile Link: https://www.linkedin.com/in/touhidulalamseyam/  
-Link to Resume (PDF):
-
 Full Name: Pratik Dev  
 Position/Role in Team: Designer, Full Stack Web Developer  
 Email Address: pratikdevofficial1@gmail.com  
 LinkedIn Profile Link: https://www.linkedin.com/in/pratik-and-dev/  
 Link to Resume (PDF): https://github.com/PratikDev/biddyaloy/blob/main/devInfo/pratik.pdf
+
+Full Name: Touhidul Alam Seyam  
+Position/Role in Team: Mobile App Developer, AI/ML Engineer  
+Email Address: seyamalam41@gmail.com  
+LinkedIn Profile Link: https://www.linkedin.com/in/touhidulalamseyam/  
+Link to Resume (PDF): 
 
 #### Team Lead
 
