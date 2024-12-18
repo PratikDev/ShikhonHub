@@ -6,7 +6,7 @@ Binary
 
 ## Project Title
 
-Biddyaloy
+ShikhonHub
 
 ## PROBLEM STATEMENT
 
