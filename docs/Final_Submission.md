@@ -11,25 +11,22 @@ ShikhonHub
 ## PROBLEM STATEMENT
 
 ### Summary
+
 In Bangladesh, universities face significant challenges in managing and optimizing their operations due to the lack of comprehensive, AI-powered student management systems. This deficiency particularly affects the 3.5 million university students and thousands of professors across the country, leading to reduced educational effectiveness, inefficient resource allocation, and difficulties in tracking student progress. The absence of modern technological solutions tailored to Bangladesh's higher education context has created a significant gap between the country's educational aspirations and its actual capabilities.
 
 ### Description
 
-Detailed Description of the Problem
-
-Explain the problem's context, its relevance, and the specific pain points it addresses.
+Bangladesh's education system, serving over 42 million students, faces critical challenges in digital transformation. Despite increasing internet penetration (49% as of 2023), educational institutions lack comprehensive digital solutions that integrate AI capabilities. This gap results in inefficient administrative processes, limited personalized learning opportunities, and reduced educational outcomes, particularly affecting rural areas where 65% of the student population resides.
 
 ## PROPOSED SOLUTION
 
 ### Overview
 
-Biddyaloy is an AI-powered comprehensive educational management platform specifically designed for Bangladesh's university ecosystem. It combines cutting-edge artificial intelligence with features tailored for higher education to create an efficient and effective learning environment for students, professors, and administrative staff.
+ShikhonHub is an AI-powered comprehensive educational management platform specifically designed for Bangladesh's university ecosystem. It combines cutting-edge artificial intelligence with features tailored for higher education to create an efficient and effective learning environment for students, professors, and administrative staff.
 
 ### Description
 
-Detailed Solution Description
-
-Describe how your solution addresses the problem in detail. Mention any AI or machine learning approaches if applicable.
+ShikhonHub is a unified platform that integrates AI-driven tools to enhance student learning, streamline administrative processes, and optimize resource allocation. The platform offers features such as OCR for document digitization, automated grading, personalized study plans, and real-time performance analytics. ShikhonHub also includes a StudyPal feature to facilitate collaborative learning among students and a chat room for academic discussions. The platform caters to the needs of students, teachers, and administrative staff, providing a seamless educational experience for all stakeholders.
 
 #### AI Enhanced Features
 
@@ -78,27 +75,72 @@ Describe how your solution addresses the problem in detail. Mention any AI or ma
 
 ### FAQs
 
-#### 1. Will it help the masses? like students from the rural areas?
+#### 1. Why is ShikhonHub initially focused only on universities?
 
-#### 2. 62% of students around the globe use AI in their school settings. What's the number for BD?
+- Universities have better technological infrastructure
+- More standardized processes across institutions
+- Greater need for research and collaboration tools
+- Better equipped to adopt new technologies
 
-#### 3. are we concerned about AI age restrictions?
+#### 2. What measures are in place for data privacy and security?
 
-#### 4. can our app be used in plagarism?
+- End-to-end encryption for all sensitive data
+- Compliance with Bangladesh's Digital Security Act 2018
+- Regular security audits and penetration testing
+- Strict access control and user authentication
 
-#### 5. what ethical concerns do we have?
+#### 3. How does ShikhonHub handle content moderation?
+
+- AI-powered content filtering system
+- Multi-layer review process for user-generated content
+- Faculty oversight system
+- Regular content audits by academic experts
+
+#### 4. What is the platform's approach to language support?
+
+- Full Bangla language interface
+- Bilingual content generation (Bangla and English)
+- Academic terminology support
+- AI translation capabilities for research materials
+
+#### 5. How does the platform ensure quality of AI-generated content?
+
+- Multiple AI models for cross-verification
+- Faculty review system for critical content
+- Regular model updates and improvements
+- User feedback integration for content refinement
+
+#### 6. What support is available for faculty new to technology?
+
+- Comprehensive training programs
+- Technical support during business hours
+- Step-by-step tutorial videos
+- Regular workshops and webinars
+
+#### 7. How does ShikhonHub handle student data privacy?
+
+- Strict compliance with educational data protection guidelines
+- Transparent data usage policies
+- Regular privacy audits
+- Data archival system for graduated students
+
+#### 8. What measures are in place to prevent academic misconduct?
+
+- Advanced plagiarism detection
+- Activity monitoring and reporting
+- User behavior analysis
+- Faculty oversight tools
 
 ## BUSINESS IMPACT
 
-
 ### Summary
 
-Biddyaloy is positioned to transform Bangladesh’s education landscape by leveraging AI-driven tools and features. This platform caters to the pressing needs of a rapidly growing educational ecosystem, addressing challenges like accessibility, quality of education and teacher productivity. By offering a comprehensive suite of features, Biddyaloy aims to capture a significant share of the $700M Bangladeshi EdTech market by 2025. The platform’s potential for social impact is equally significant, with the potential to empower millions of students and teachers, aligning with Sustainable Development Goal 4 (Quality Education).
+ShikhonHub is positioned to transform Bangladesh’s education landscape by leveraging AI-driven tools and features. This platform caters to the pressing needs of a rapidly growing educational ecosystem, addressing challenges like accessibility, quality of education and teacher productivity. By offering a comprehensive suite of features, ShikhonHub aims to capture a significant share of the $700M Bangladeshi EdTech market by 2025. The platform’s potential for social impact is equally significant, with the potential to empower millions of students and teachers, aligning with Sustainable Development Goal 4 (Quality Education).
 
 **Key Anticipated Impacts:**
 
-- **Business Impact:** Substantial market capture in the $700M Bangladeshi EdTech market projected by 2025 [1].
-- **Social Impact:** Empowering millions of students and teachers through technology, aiding the achievement of Sustainable Development Goal 4 (Quality Education) [2].
+- **Business Impact:** Substantial market capture in the $700M Bangladeshi EdTech market projected by 2025 [[1]](#citations-and-sources).
+- **Social Impact:** Empowering millions of students and teachers through technology, aiding the achievement of Sustainable Development Goal 4 (Quality Education) [[2]](#citations-and-sources).
 
 ### Description
 
@@ -106,40 +148,40 @@ Biddyaloy is positioned to transform Bangladesh’s education landscape by lever
 
 ##### National Context
 
-- **Student Demographics:** Over 42 million students are enrolled in primary and secondary education in Bangladesh [3].
-- **Internet Access:** Approximately 49% of the population uses the internet, with rapid growth in rural connectivity due to government programs [4].
+- **Student Demographics:** Over 42 million students are enrolled in primary and secondary education in Bangladesh [[3]](#citations-and-sources).
+- **Internet Access:** Approximately 76% of the population uses the internet, with rapid growth in rural connectivity due to government programs [[4]](#citations-and-sources).
 
 ##### EdTech Industry in Bangladesh
 
-- The Bangladeshi EdTech market has shown a **20% CAGR**, with significant post-pandemic adoption. By 2025, this market is expected to reach **$700M**, driven by increased adoption of online platforms and skill-based education [1].
-- Funding in EdTech startups has increased, with companies like Shikho and 10 Minute School securing a combined $7M in seed funding since 2021 [1][5].
+- The Bangladeshi EdTech market has shown a **20% CAGR**, with significant post-pandemic adoption. By 2025, this market is expected to reach **$700M**, driven by increased adoption of online platforms and skill-based education [[1]](#citations-and-sources).
+- Funding in EdTech startups has increased, with companies like Shikho and 10 Minute School securing a combined $7M in seed funding since 2021 [[1][5]](#citations-and-sources).
 
 ---
 
-#### Key Features of Biddyaloy and Their Impacts
+#### Key Features of ShikhonHub and Their Impacts
 
 ##### 1. **OCR and Doc Chat**
 
-- **Impact:** Streamlines resource accessibility for 42M students by converting physical documents to searchable digital formats [3].
+- **Impact:** Streamlines resource accessibility for 42M students by converting physical documents to searchable digital formats [[3]](#citations-and-sources).
 - **Use Case:** Enables rural students with limited access to libraries to benefit from digital archives.
 
 ##### 2. **Study Plan & Performance Analytics**
 
-- **Impact:** Personalized education plans can improve performance by up to 30%, as shown by global studies on adaptive learning [6].
-- **Social Relevance:** Aligns with government initiatives to reduce dropout rates, which stand at 17% in secondary schools [3].
+- **Impact:** Personalized education plans can improve performance by up to 30%, as shown by global studies on adaptive learning [[6]](#citations-and-sources).
+- **Social Relevance:** Aligns with government initiatives to reduce dropout rates, which stand at 17% in secondary schools [[3]](#citations-and-sources).
 
 ##### 3. **Automated Grading and AI Study Buddy**
 
-- **Impact:** Saves 60% of teachers’ administrative time, allowing more focus on quality teaching [7].
+- **Impact:** Saves 60% of teachers’ administrative time, allowing more focus on quality teaching [[7]](#citations-and-sources).
 - **Economic Benefit:** Enhances teacher productivity, potentially reducing per-student teaching costs.
 
 ##### 4. **Localized Content and Simplified Notes**
 
-- **Impact:** Supports first-generation learners and students from underprivileged backgrounds by reducing content complexity [8].
+- **Impact:** Supports first-generation learners and students from underprivileged backgrounds by reducing content complexity [[8]](#citations-and-sources).
 
 ##### 5. **Voice-to-Text and Text-to-Voice Tools**
 
-- **Impact:** Accessibility for visually impaired students (estimated at 0.4% of the population) ensures inclusive education [9].
+- **Impact:** Accessibility for visually impaired students (estimated at 0.4% of the population) ensures inclusive education [[9]](#citations-and-sources).
 
 ---
 
@@ -152,48 +194,85 @@ Biddyaloy is positioned to transform Bangladesh’s education landscape by lever
 
 ##### Market Capture
 
-- If Biddyaloy captures **10% of the target market by 2027**, revenue could exceed **$70M/year**, with an additional $10M from institutional partnerships.
+- If ShikhonHub captures **10% of the target market by 2027**, revenue could exceed **$70M/year**, with an additional $10M from institutional partnerships.
 
 ---
 
 #### Social Benefits
 
-1. **Equity in Education**: Improves education access in rural areas, where school dropout rates are higher due to resource scarcity [3].
+1. **Equity in Education**: Improves education access in rural areas, where school dropout rates are higher due to resource scarcity [[3]](#citations-and-sources).
 2. **Skill Development**: Prepares students for the global job market through resume-building tools and mock interviews.
-3. **Environmental Impact**: Digital notes and assignments reduce reliance on paper, saving an estimated **1M trees annually**, assuming 50% digital adoption in schools [10].
+3. **Environmental Impact**: Digital notes and assignments reduce reliance on paper, saving an estimated **1M trees annually**, assuming 50% digital adoption in schools [[10]](#citations-and-sources).
 
 ---
 
 #### Scalability and Sustainability
 
 1. **Localization**: Expanding to neighboring South Asian countries with similar challenges, like India and Nepal.
-2. **Integration with National Goals**: Aligns with Bangladesh’s Vision 2041, which emphasizes a knowledge-based economy [11].
+2. **Integration with National Goals**: Aligns with Bangladesh’s Vision 2041, which emphasizes a knowledge-based economy [[11]](#citations-and-sources).
 3. **Partnerships**: Collaborations with NGOs, schools, and tech partners for broader reach.
 
 ---
 
-#### Cons
+#### Cons and Challenges
 
-1. Extra learning curve for both the Institution and teachers, as well as the students.
-2. Institutions with low budget may not be able to afford the technology. But it can be solved by providing customized pricing plans.
-3. We have to collect many student data, which might be a privacy concern. As a solution, we can provide way for the students to download their data and check what data we have collected.
-4. An over-reliance on AI tools may lead to a decline in quality and richness of educational content, with the risk of perpetuating inaccuracies or biases present in the training data of the AI models.
+1. **Technical Challenges**
+
+   - Server performance during peak usage (exams, registration periods)
+   - Integration with existing university systems
+   - Scaling for large universities
+   - API reliability and performance
+
+2. **Implementation Costs**
+
+   - Initial setup costs may be prohibitive for smaller universities
+   - Training costs for faculty and staff
+   - Ongoing maintenance expenses
+   - Integration costs with existing systems
+
+3. **Cultural and Behavioral Adaptation**
+
+   - Resistance to technology adoption from traditional academics
+   - Learning curve for both faculty and students
+   - Change management challenges in established institutions
+   - Potential over-reliance on technology
+
+4. **Data and Privacy Concerns**
+
+   - Handling sensitive student and research information
+   - Compliance with evolving data protection laws
+   - Risk of data breaches or unauthorized access
+   - Long-term data storage and management challenges
+
+5. **AI-Related Challenges**
+
+   - Potential biases in AI-generated content
+   - Accuracy of automated assessments
+   - Language model limitations for Bangla
+   - Need for continuous model updates and maintenance
+
+6. **Scalability Issues**
+
+   - Server load during peak usage periods
+   - Database management for large universities
+   - Resource allocation for growing user base
+   - Performance optimization challenges
 
 ---
 
 #### Citations and Sources
 
-[1] Renaissance of EdTech in Bangladesh, Markedium  
-[2] Sustainable Development Goals Report, UNDP  
-[3] Bangladesh Education Statistics 2022, BANBEIS  
-[4] Internet Penetration in Bangladesh, BTRC  
+[1] [Renaissance of EdTech in Bangladesh, Markedium](https://markedium.com/renaissance-of-ed-tech-industry-in-bangladesh/#:~:text=The%20renaissance%20of%20Edtech%20in,them%20which%20are%20very%20popular)  
+[2] [Sustainable Development Goals Report, UNDP](https://www.undp.org/sustainable-development-goals/quality-education)  
+[3] [Bangladesh Education Statistics 2022, BANBEIS](https://banbeis.portal.gov.bd/sites/default/files/files/banbeis.portal.gov.bd/page/6d10c6e9_d26c_4b9b_9c7f_770f9c68df7c/Bangladesh%20Education%20Statistics%202022%20%281%29_compressed.pdf)  
+[4] [Internet Penetration in Bangladesh, BTRC](https://btrc.gov.bd/site/page/347df7fe-409f-451e-a415-65b109a207f5/-)  
 [5] Shikho and 10 Minute School Funding News  
 [6] Adaptive Learning Studies, UNESCO  
 [7] Automated Grading Efficiency, OECD  
 [8] Benefits of Simplified Learning Materials, Educational Psychology Journal  
 [9] Accessibility for Visually Impaired Students, WHO  
 [10] Environmental Benefits of Digital Learning, WWF  
-[11] Vision 2041, Bangladesh Government
+[11] [Vision 2041, Bangladesh Government](https://en.wikipedia.org/wiki/Bangladesh_Vision_2041)
 
 ---
 
@@ -204,7 +283,6 @@ Biddyaloy is positioned to transform Bangladesh’s education landscape by lever
 - **Frontend**: NextJS
 - **Backend**: NextJS API Routes
 - **ORM**: Drizzle
-- **Schema Validation**: Zod
 - **Real-Time Communication**: Socket.io
 
 ### Database
@@ -386,16 +464,16 @@ Biddyaloy is positioned to transform Bangladesh’s education landscape by lever
 #### List of Team Members
 
 Full Name: Pratik Dev  
-Position/Role in Team: Designer, Full Stack Web Developer  
+Position/Role in Team: UI Designer, Web Interface and Backend API Developer, DevOps Engineer  
 Email Address: pratikdevofficial1@gmail.com  
 LinkedIn Profile Link: https://www.linkedin.com/in/pratik-and-dev/  
-Link to Resume (PDF): https://github.com/PratikDev/biddyaloy/blob/main/devInfo/pratik.pdf
+Link to Resume (PDF): https://github.com/PratikDev/ShikhonHub/blob/main/devInfo/pratik.pdf
 
 Full Name: Touhidul Alam Seyam  
 Position/Role in Team: Mobile App Developer, AI/ML Engineer  
 Email Address: seyamalam41@gmail.com  
 LinkedIn Profile Link: https://www.linkedin.com/in/touhidulalamseyam/  
-Link to Resume (PDF): 
+Link to Resume (PDF): https://github.com/PratikDev/ShikhonHub/blob/main/devInfo/Seyam_CV.pdf
 
 #### Team Lead
 
